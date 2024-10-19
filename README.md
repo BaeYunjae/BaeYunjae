@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4&text=✨Welcome✨&fontSize=40&height=150&fontAlignY=30)
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4&text=✨Welcome✨&fontSize=40&height=150&fontAlignY=35)
 
   <h3>Introduction</h3>
   
